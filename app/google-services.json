@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384299352156",
+    "firebase_url": "https://madhyamauth.firebaseio.com",
+    "project_id": "madhyamauth",
+    "storage_bucket": "madhyamauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384299352156:android:d82ad753a5d54178e5a699",
+        "android_client_info": {
+          "package_name": "com.madhyamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384299352156-dg02hvodpjni2qcg3ptj0124vn7jsr7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madhyamapp",
+            "certificate_hash": "e12ba1b876492cbc24f2acd97ed0952a550617c6"
+          }
+        },
+        {
+          "client_id": "384299352156-5e0hfjh8fuas4kooqrp927r6dfopqsv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv_JC3L5eTlSIYzsr0ke92HaY3KSj94R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384299352156-5e0hfjh8fuas4kooqrp927r6dfopqsv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
